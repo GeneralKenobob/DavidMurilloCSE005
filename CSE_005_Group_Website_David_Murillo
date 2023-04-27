@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Computer Worms - David Murillo</title>
+</head>
+<body>
+
+<h1>Computer Worms!</h1>
+<p>Computer Worms are one of the most infamous attacks used by malicious parties to cause intentional harm to their targeted servers. Computer Worms are defined as “…a self-replicating computer program, similar to a virus but unlike a virus… a worm is self-contained and does not need to be part of another program to propagate itself”^1. This ability to spread itself across a wide network of computers without the need for a separate person or program to propagate has led to these forms of attacks to become known as Worms. Computer Worms cause damage by rapidly spreading themselves, “…consuming bandwidth and overloading web servers”^2. When used against organizations that depend on their servers to generate profits the attacks cause direct financial losses to the organization. Though these attacks frequented the early internet era, their use against most modern systems is limited. Almost all antivirus software easily detects these attacks and is able to intercept them and make the user aware before they cause damage. However, once a Worm infiltrates a network it is still possible to limit their harm. By isolating affected devices, assessing the Worms spread, and removing the Worm (with special tools if necessary), Worms today are easily combated^3. In summary, while Computer Worms have the potential to cause significant harm to certain organizations, proper, basic computer safety protocol easily counters their attacks.</p>
+
+</body>
+</html>
+
+<h2>Media and Images</h2>
+<p>The Following are Intended to Help Users Visualize the Effects of Computer Worms.</p>
+
+<img src="w3schools.jpg" alt="https://www.adlice.com/what-is-a-worm/" width="104" height="142">
+
+</body>
+</html>
+
+<img class="preload-me lazy-load is-loaded" width="1200" height="600" title="worm-computer" alt="" src="https://www.adlice.com/wp-content/uploads/2020/10/worm-computer-1200x600.jpg" srcset="https://www.adlice.com/wp-content/uploads/2020/10/worm-computer-1200x600.jpg 1200w" style="will-change: auto;">
+
+</body>
+</html>
+
+<img src="https://www.bluebastion.net/wp-content/uploads/elementor/thumbs/AdobeStock_50207009-pnli0kabgrqpf7l4gtqgximufqfi7pgm6m5zudpzwo.jpg" title="Cybersecurity icon fighting off computer worm attack" alt="Cybersecurity icon fighting off computer worms attack" loading="lazy">
+
+</body>
+</html>
+
+<img decoding="async" class="aligncenter size-full wp-image-5789" src="https://everydaycyber.net/wp-content/uploads/2021/07/EDC-What-is-a-Computer-Worm-infection-chain.png" alt="What is a Computer Worm - infection chain" width="801" height="1755" srcset="https://everydaycyber.net/wp-content/uploads/2021/07/EDC-What-is-a-Computer-Worm-infection-chain.png 801w, https://everydaycyber.net/wp-content/uploads/2021/07/EDC-What-is-a-Computer-Worm-infection-chain-137x300.png 137w, https://everydaycyber.net/wp-content/uploads/2021/07/EDC-What-is-a-Computer-Worm-infection-chain-467x1024.png 467w, https://everydaycyber.net/wp-content/uploads/2021/07/EDC-What-is-a-Computer-Worm-infection-chain-768x1683.png 768w, https://everydaycyber.net/wp-content/uploads/2021/07/EDC-What-is-a-Computer-Worm-infection-chain-701x1536.png 701w" sizes="(max-width: 801px) 100vw, 801px">
+
+</body>
+</html>
+
+<h1>Conclusion</h1>
+<p>Computer Worms are a relatively dated though still potentially harmful method of attacking computer networks. The implementation of basic computer safety protocols, education of cumputer users on methods to detect and avoid harmful data sources, and the use of antivirus software provides an effective wall to shield against these attacks.</p>
+
+</body>
+</html>
+
